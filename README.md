@@ -10,6 +10,6 @@
 
 💬 Ask me about HTML, CSS and any tech related stuff.
 
-📫 How to reach me:yuvraj.june2002@gmail.com
+📫 How to reach me:www.linkedin.com/in/yuvraj-sharma-212702228
 
 😄 Pronouns: He/Him
