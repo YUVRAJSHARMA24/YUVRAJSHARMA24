@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamuv_24" target="blank"><img src="https://img.shields.io/twitter/follow/iamuv_24?logo=twitter&style=for-the-badge" alt="iamuv_24" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, JavaScript**
-
-- 💬 Ask me about **HTML,CSS and C++**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **yuvraj.june2002@gmail.com**
 
