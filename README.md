@@ -20,8 +20,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤: ℂ++, ℍ𝕋𝕄𝕃/ℂ𝕊𝕊, 𝕁𝕒𝕧𝕒𝕊𝕔𝕣𝕚𝕡𝕥, 𝕊ℚ𝕃</p>
-<p>𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕋𝕠𝕠𝕝𝕤: 𝔾𝕚𝕥, 𝔾𝕚𝕥𝕙𝕦𝕓, 𝕍𝕊 ℂ𝕠𝕕𝕖, ℙ𝕪ℂ𝕙𝕒𝕣𝕞, 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕁</p>
-<p>𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤/𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤: ℝ𝕖𝕒𝕔𝕥, 𝕋𝕒𝕚𝕝𝕨𝕚𝕟𝕕 ℂ𝕊𝕊, 𝔹𝕠𝕠𝕥𝕤𝕥𝕣𝕒𝕡, ℂ𝕙𝕒𝕜𝕣𝕒-𝕌𝕀 </p>
+<p>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: 𝐂++, 𝐇𝐓𝐌𝐋/𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐒𝐐𝐋</p>
+<p>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐨𝐨𝐥𝐬: 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐡𝐮𝐛, 𝐕𝐒 𝐂𝐨𝐝𝐞, 𝐏𝐲𝐂𝐡𝐚𝐫𝐦, 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐉</p>
+<p>𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬/𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: 𝐑𝐞𝐚𝐜𝐭, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐂𝐡𝐚𝐤𝐫𝐚-𝐔𝐈 </p>
 <!-- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 𝘽𝙤𝙤𝙩𝙨𝙩𝙧𝙖𝙥</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 𝘾++ </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
 
